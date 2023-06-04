@@ -1,2 +1,1 @@
-20211456 SungYeopJung
-Kookmin Univ. SW
+20211456, SungYeopJung, software
